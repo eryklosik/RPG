@@ -1,0 +1,3 @@
+﻿  eryk_losik_rpg_3.cpp
+c:\users\eryk\source\repos\eryk_losik_rpg_3\eryk_losik_rpg_3\eryk_losik_rpg_3.cpp(32): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  eryk_losik_rpg_3.vcxproj -> C:\Users\Eryk\source\repos\eryk_losik_rpg_3\Debug\eryk_losik_rpg_3.exe

@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-//#include "Opponent.h"
+#include <vector>
 using namespace std;
 
 class Character

@@ -5,7 +5,7 @@
 
 Game::Game()
 {
-	cout << "game constructor"<<endl;
+	//cout << "game constructor"<<endl;
 }
 
 
